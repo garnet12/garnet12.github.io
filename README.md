@@ -1,11 +1,25 @@
-fill(255, 0, 0);
-textSize(30);
-text("STUFFED FREDDY", 10, 30);
-textSize(17);
-text("SO SOFT! DON'T GO TO SLEEP WITHOUT ONE!", 10, 87);
-textSize(20);
-text("call 555-666-766 for your free trial today",10,127);
-textSize(10);
-text("not responabel for any ingerys",140,300);
-text("dream or sleap fail may aply we have schalarships",90,330);
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <body>
+
+        <h1>Travel to ....</h1>
+        <h2>Hawaii</h2>
+        <img rgb>
+    </body> 
+    <img src="https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png" width="461">
+    
+    <br>and
+    have a amazing time and see amimals like <img src="https://www.kasandbox.org/programming-images/animals/shark.png" height="345">
+   and <img src="https://www.kasandbox.org/programming-images/animals/cheetah.png" width="368"> 
+    
+    
+    
+    
+</html>
+
+
 
